@@ -8,6 +8,9 @@
 #ifndef VC_EXTRALEAN
 #define VC_EXTRALEAN            // 从 Windows 头中排除极少使用的资料
 #endif
+#define POINTER_64 __ptr64
+#define POINTER_32 __ptr32
+#define DIRECT3D_VERSION         0x0700
 
 #include "targetver.h"
 
