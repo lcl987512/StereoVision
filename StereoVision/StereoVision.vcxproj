@@ -198,6 +198,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BridgeCapture.h" />
     <ClInclude Include="CameraDS.h" />
     <ClInclude Include="CvvImage.h" />
     <ClInclude Include="ParamServer.h" />
@@ -211,6 +212,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BridgeCapture.cpp" />
     <ClCompile Include="CameraDS.cpp" />
     <ClCompile Include="CvvImage.cpp" />
     <ClCompile Include="ParamServer.cpp" />

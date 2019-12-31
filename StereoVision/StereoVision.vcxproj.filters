@@ -51,6 +51,9 @@
     <ClInclude Include="StereoMatch.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="BridgeCapture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="StereoVision.cpp">
@@ -78,6 +81,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="CameraDS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BridgeCapture.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
